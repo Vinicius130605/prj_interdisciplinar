@@ -120,6 +120,11 @@ a:hover:after{
 	margin-right: 185px;
 	margin-left: 185px;
 }
+#area2_postagens_pag2 p{
+	padding: 15px;
+	text-align: left;
+	color: #4b3b40;
+}
 #area2_postagens_pag2 img{
 	float: right;
 	padding: 15px;
