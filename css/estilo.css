@@ -99,7 +99,8 @@ a:hover:after{
 	margin-left: 185px;
 }
 #area2_postagens_pag2 p{
-	padding: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
 	text-align: left;
 	color: #4b3b40;
 }
